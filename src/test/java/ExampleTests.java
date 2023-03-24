@@ -7,6 +7,7 @@ public class ExampleTests {
     @Test
     void exmple(){
         open("https://demowebshop.tricentis.com");
+
     }
 
 }
